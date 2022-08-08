@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tom-Z15
-- 👀 I’m interested in programming, math, physic and chemistry. I love  C# and python
+- 👀 I’m interested in programming, math, physic and chemistry. I love Java and python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me email - oliwierszatan@outlook.com
